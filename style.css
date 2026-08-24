@@ -45,3 +45,10 @@ h2 {
     font-weight: 600;
     letter-spacing: -2px;
 }
+
+video {
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
