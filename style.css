@@ -112,12 +112,12 @@ footer a {
     border-radius: 10px;
 }
 
-.Mathconcepts\.r {
+.Mathconcepts-container {
     text-align: center;
-    margin-top: 20px;
+    margin: 20px auto;
 }
 
 .Mathconcepts\.r img {
-    max-width: 250px;
+    width: 250px;
     height: auto;
 }
