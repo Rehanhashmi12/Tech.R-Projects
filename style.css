@@ -111,3 +111,13 @@ footer a {
     height: auto;
     border-radius: 10px;
 }
+
+.Mathconcepts\.r {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Mathconcepts\.r img {
+    max-width: 100%;
+    height: auto;
+}
