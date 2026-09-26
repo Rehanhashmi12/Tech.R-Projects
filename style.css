@@ -125,3 +125,9 @@ footer a {
     width: 250px;
     height: auto;
 }
+.front-image {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
