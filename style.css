@@ -136,3 +136,11 @@ footer a {
     height: auto;
     display: block;
 }
+
+.home-image {
+    display: block;
+    width: 400px;
+    max-width: 90%;
+    height: auto;
+    margin: 30px auto;
+}
